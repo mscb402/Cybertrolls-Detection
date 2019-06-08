@@ -1,6 +1,8 @@
 # Cybertrolls-Detection
 Cybertrolls Detection using deep learning
 
+文章发表地址 [http://www.freebuf.com/others-articles/204523.html](http://www.freebuf.com/others-articles/204523.html)
+
 基于深度学习的网络欺凌检测
 
 # 文件说明
