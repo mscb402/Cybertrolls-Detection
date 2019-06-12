@@ -3,6 +3,8 @@ Cybertrolls Detection using deep learning
 
 文章发表地址 [http://www.freebuf.com/others-articles/204523.html](http://www.freebuf.com/others-articles/204523.html)
 
+文章地址2:[https://mscb402.github.io/article/2019-6-8/](https://mscb402.github.io/article/2019-6-8/) (修改一些错别字)
+
 基于深度学习的网络欺凌检测
 
 # 文件说明
