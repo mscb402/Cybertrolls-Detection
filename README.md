@@ -9,12 +9,12 @@ Cybertrolls Detection using deep learning
 
 # 文件说明
 
-- Dataset for Detection of Cyber-Trolls.json 是训练数据集，一行一个json对象
-- CybertrollsDetection-Train.ipynb 是一个ipynb文件,内容是对模型进行训练，可以导入你的jupyter notebook进行查看和运行
-- CybertrollsDetection.ipynb 模型运行的实际例子，ipynb文件版
-- CybertrollsDetection.py 模型运行的实际例子，纯python文件版本
-- model.h5 已经训练好的模型文件
-- word.json 已经构建好的词表文件
+- `Dataset for Detection of Cyber-Trolls.json` 是训练数据集，一行一个json对象
+- `CybertrollsDetection-Train.ipynb` 是一个ipynb文件,内容是对模型进行训练，可以导入你的jupyter notebook进行查看和运行
+- `CybertrollsDetection.ipynb` 模型运行的实际例子，ipynb文件版
+- `CybertrollsDetection.py` 模型运行的实际例子，纯python文件版本
+- `model.h5` 已经训练好的模型文件
+- `word.json` 已经构建好的词表文件
 
 # 使用例子
 
