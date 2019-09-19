@@ -1,4 +1,4 @@
-# Cybertrolls-Detection
+# Cybertrolls Detection
 Cybertrolls Detection using deep learning
 
 文章发表地址 [http://www.freebuf.com/others-articles/204523.html](http://www.freebuf.com/others-articles/204523.html)
