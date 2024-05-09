@@ -1,9 +1,9 @@
+> ## 🔔 特别提醒：这个项目是2019年我在学习DL的时候写的。现在已经2024年，以GPT为首的模型在NLP领域已经有了相当大的突破，目前这个项目已经远远过时，无法再给各位提供任何有意义的价值，希望各位学习AI的朋友，不要花时间在我这个项目上面，省的浪费大家宝贵的时间！
+
 # Cybertrolls Detection
 Cybertrolls Detection using deep learning
 
 文章发表地址 [http://www.freebuf.com/others-articles/204523.html](http://www.freebuf.com/others-articles/204523.html)
-
-文章地址2:[https://mscb402.github.io/article/2019-6-8/](https://mscb402.github.io/article/2019-6-8/) (修改一些错别字)
 
 基于深度学习的网络欺凌检测
 
